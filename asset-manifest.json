@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hiep2301/strapi-simple-one-client.git/static/css/main.b892ee1b.css",
-    "main.js": "/Hiep2301/strapi-simple-one-client.git/static/js/main.6c8a1f7e.js",
-    "static/media/banner-img.png": "/Hiep2301/strapi-simple-one-client.git/static/media/banner-img.0412d66280a0273effa2.png",
-    "static/media/newsletter-bg.jpeg": "/Hiep2301/strapi-simple-one-client.git/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
-    "index.html": "/Hiep2301/strapi-simple-one-client.git/index.html",
-    "main.b892ee1b.css.map": "/Hiep2301/strapi-simple-one-client.git/static/css/main.b892ee1b.css.map",
-    "main.6c8a1f7e.js.map": "/Hiep2301/strapi-simple-one-client.git/static/js/main.6c8a1f7e.js.map"
+    "main.css": "/strapi-simple-one-client/static/css/main.0a14c8cb.css",
+    "main.js": "/strapi-simple-one-client/static/js/main.1af29899.js",
+    "static/media/banner-img.png": "/strapi-simple-one-client/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/strapi-simple-one-client/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/strapi-simple-one-client/index.html",
+    "main.0a14c8cb.css.map": "/strapi-simple-one-client/static/css/main.0a14c8cb.css.map",
+    "main.1af29899.js.map": "/strapi-simple-one-client/static/js/main.1af29899.js.map"
   },
   "entrypoints": [
-    "static/css/main.b892ee1b.css",
-    "static/js/main.6c8a1f7e.js"
+    "static/css/main.0a14c8cb.css",
+    "static/js/main.1af29899.js"
   ]
 }
